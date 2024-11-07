@@ -1,0 +1,25 @@
+{
+  "template": "https://github.com/scientific-python/cookie",
+  "commit": "4ae0e14be03d274505ed85e594ea9e8acf8045f1",
+  "checkout": null,
+  "context": {
+    "cookiecutter": {
+      "project_name": "MultiScaleTreeGraphPy",
+      "org": "thomasarsouze",
+      "url": "https://github.com/thomasarsouze/MultiScaleTreeGraphPy",
+      "full_name": "Thomas Arsouze",
+      "email": "thomas.arsouze@cirad.fr",
+      "project_short_description": "Python version of the Julia package https://github.com/VEZY/MultiScaleTreeGraph.jl",
+      "license": "MIT",
+      "backend": "setuptools",
+      "vcs": true,
+      "__year": "2024",
+      "__project_slug": "multiscaletreegraphpy",
+      "__type": "pure",
+      "__answers": "",
+      "__ci": "github",
+      "_template": "https://github.com/scientific-python/cookie"
+    }
+  },
+  "directory": null
+}
