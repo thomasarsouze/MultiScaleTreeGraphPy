@@ -3,11 +3,11 @@ Copyright (c) 2024 Thomas Arsouze. All rights reserved.
 
 MultiScaleTreeGraphPy: Python version of the Julia package https://github.com/VEZY/MultiScaleTreeGraph.jl
 """
+from __future__ import annotations
 
 import shutil
 from jill.install import install_julia
 
-from __future__ import annotations
 
 from ._version import version as __version__
 
